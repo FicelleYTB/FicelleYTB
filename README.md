@@ -1,7 +1,7 @@
 ### Bonjour 👋
 
 # Description
-- 💻 Développeur principalement java, javascript et C
+- 💻 Développeur principalement C++ et Lua
 
 # Stats
 <p align="center">
